@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app/welcome_page/welcome_screen.dart';
+import 'package:quiz_app/screens/quiz/quiz_screen.dart';
+import 'package:quiz_app/screens/welcome_page/welcome_screen.dart';
+
 
 void main() => runApp(MyApp());
 
@@ -11,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'quiz app',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
-      home: WelcomeScreen(),
+      home: QuizScreen(),
     );
   }
 }

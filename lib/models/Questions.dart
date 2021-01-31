@@ -12,6 +12,24 @@ const List examples = [
     "id": 1,
     "question": "YS kaç yılında kuruldu?",
     "options": ['2010', '2012', '2013', '2015'],
+    "answer": 0,
+  },
+  {
+    "id": 2,
+    "question": "YS kaç yılında kuruldu?",
+    "options": ['2010', '2012', '2013', '2015'],
     "answer": 1,
+  },
+  {
+    "id": 3,
+    "question": "YS kaç yılında kuruldu?",
+    "options": ['2010', '2012', '2013', '2015'],
+    "answer": 2,
+  },
+  {
+    "id": 4,
+    "question": "YS kaç yılında kuruldu?",
+    "options": ['2010', '2012', '2013', '2015'],
+    "answer": 3,
   },
 ];
